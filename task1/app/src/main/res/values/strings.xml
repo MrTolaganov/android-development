@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="show_menu">Show Menu</string>
+</resources>
